@@ -1,6 +1,6 @@
 # PhD
 
-This repository contains a collection of links to papers and implementation frameworks I worked on during my time as a PhD student. Find more information about myself, my research, talks, and publications on my personal website [rwalch.at](https://rwalch.at/).
+This repository contains my PhD Thesis and a collection of links to papers and implementation frameworks I worked on during my time as a PhD student. Find more information about myself, my research, talks, and publications on my personal website [rwalch.at](https://rwalch.at/).
 
 ## Publications
 
