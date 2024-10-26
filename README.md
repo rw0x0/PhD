@@ -6,7 +6,7 @@ This repository contains my PhD Thesis and a collection of links to papers and i
 
 - [Pasta: A Case for Hybrid Homomorphic Encryption](https://eprint.iacr.org/2021/731.pdf) -- TCHES'23
 - [From Farfalle to Megafono via Ciminion: The PRF Hydra for MPC Applications](https://eprint.iacr.org/2022/342.pdf) -- Eurocrypt'23
-- [Hash Functions Monolith for ZK Applications: May the Speed of SHA-3 be With You](https://eprint.iacr.org/2023/1025.pdf)
+- [Hash Functions Monolith for ZK Applications: May the Speed of SHA-3 be With You](https://eprint.iacr.org/2023/1025.pdf) -- ToSC FSE'24
 - [Horst Meets Fluid-SPN: Griffin for Zero-Knowledge Applications](https://eprint.iacr.org/2022/403.pdf) -- Crypto'23
 - [Reinforced Concrete: Fast Hash Function for Zero Knowledge Proofs and Verifiable Computation](https://eprint.iacr.org/2021/1038.pdf) -- CCS'22
 - [Privately Connecting Mobility to Infectious Diseases via Applied Cryptography](https://eprint.iacr.org/2020/522.pdf) -- PoPETs'22
@@ -14,6 +14,7 @@ This repository contains my PhD Thesis and a collection of links to papers and i
 - [Efficient FPGA Implementations of LowMC and Picnic](https://eprint.iacr.org/2019/1368.pdf) -- CT-RSA'20
 - [CryptoTL: Private, efficient and secure transfer learning](https://arxiv.org/pdf/2205.11935.pdf)
 - [Privacy-Preserving Machine Learning Using Cryptography](https://rd.springer.com/content/pdf/10.1007/978-3-030-98795-4_6.pdf) -- Security and AI (Book)
+- [Minimize the Randomness in Rasta-Like Designs: How Far Can We Go?](https://eprint.iacr.org/2024/791.pdf) -- SAC'24
 
 ## Repositories
 
